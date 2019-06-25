@@ -13,13 +13,12 @@ const ageB = 25
 
 if (ageA > ageB) {
     console.log('Welcome to the club')
-    document.write('Welcome to the club')
+
 } else if (ageA < ageB) {
     console.log('You are not old enough')
-    document.write('You are not old enough')
-} else {
+    } else {
     console.log('You both can enter')
-    document.write('You both can enter')
+    
 
 const personA = {
     name: 'Alpha',
