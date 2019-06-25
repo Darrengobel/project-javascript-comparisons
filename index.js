@@ -110,3 +110,4 @@ document.write("Exam 2: " + second_input + " ");
 document.write("Exam 3: " + third_input + " ");
 document.write("Average: " + average + " ");
 document.write("Course_grade " + final_score);
+}
